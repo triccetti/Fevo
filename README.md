@@ -1,7 +1,10 @@
 # Fevo
 Interview takehome for Fevo
 
-#Running the program
+Entry point is in src/index.ts
+
+# Running the program
 run the program with 
-    $ npm start
+
+> npm start
     
